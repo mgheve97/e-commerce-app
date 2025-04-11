@@ -6,7 +6,7 @@ export const products = [
     name: "Apple Earphones",
     description: "Noise-cancellation, 40-hour battery",
     rating: 4.5,
-    price: "$299.99",
+    price: "₱57,990",
     imgSrc: assets.apple_earphone_image,
   },
   {
@@ -22,7 +22,7 @@ export const products = [
     name: "Samsung Galaxy S23",
     description: "Fitness Tracking, AMOLED Display",
     rating: 4.5,
-    price: "$799.99",
+    price: "₱57,990",
     imgSrc: assets.samsung_s23phone_image,
   },
   {
