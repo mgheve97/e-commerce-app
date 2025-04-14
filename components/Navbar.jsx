@@ -62,7 +62,7 @@ const Navbar = () => {
         user
         ? <>
         <UserButton>
-        <UserButton.MenuItems>
+          <UserButton.MenuItems>
             <UserButton.Action label="Home" labelIcon={<HomeIcon/>} onClick={()=>router.push('/')}/>
           </UserButton.MenuItems>
           <UserButton.MenuItems>
